@@ -1,0 +1,70 @@
+body{
+    margin: 0    ;
+    padding: 2%;
+
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+#history{
+    padding: 15px 10px;
+    border: 30;
+    border-radius: 50px;
+    margin-left: 65%;
+    margin-top: 10%;
+}
+
+
+
+section{
+    width: 50%;
+    max-width: 640px;
+    min-width: 480;
+    min-height: 550px;
+    border-radius: 10px;
+    color: #232323;
+}
+
+input, #adding {
+    padding: 24px 36px;
+    border: 0;
+    font-size: 16px;
+    background-color: #f5f5f5;
+    border-radius:36px;
+}
+
+#task_font{
+    margin-left: 12px ;
+    line-height: 2;
+    
+}
+
+#delete_font{
+color: red;
+cursor: pointer;
+
+}
+
+#task{
+
+    margin-left: 24px;
+    margin-top: 36px;
+}
+
+.deleteButton {
+    color: red;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.recentText,#recentList{
+    padding: 24px 36px;
+    margin-left: 25%;
+    border: rebeccapurple;
+    border-radius: 50px;
+    color: brown;
+    text-align: center;
+    font-weight: bolder;
+}
